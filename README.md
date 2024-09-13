@@ -18,7 +18,6 @@
 - **[2022.12-2023.03]** Telus International AI, Co. Intern
 <br>
 
-
 ## ⚡️ Tech Stack
 <span>
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -37,19 +36,23 @@
 <img src="https://img.shields.io/badge/-kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> 
 <img src="https://img.shields.io/badge/-docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"> 
 <img src="https://img.shields.io/badge/-jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=black"> 
-  
+<br>
+<br>
+
 ## 💥 Projects
 - **[소담]** 소품샵 정보 제공 및 후기 공유 서비스 <!-- [👉Link](https://sodam.me/) -->
 - **[Drag Me]** 드래그 기반 일정관리 서비스
 - **[Track-1]** 뮤지션 매칭 서비스
 - **[소비로그]** 소비 기록 공유 서비스
 - **[Spring]** 우울증 관리 및 의사, 환자간 소통 제공 서비스
-
+<br>
+<br>
 
 ## 🏆 Awards & Certificate
 - 성신여자대학교 2022 소프트웨어경진대회 최우수상 
 - AWS Certified Solutions Architect - Associate (2024.09.12)
 - 정보처리기사 (2024.09.10)
-
+<br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2C54E4&height=150&section=footer" />
