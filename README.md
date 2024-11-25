@@ -13,7 +13,7 @@
 ## 🍀 About me
 <span>
 
-- **[2021.09-2022.01]** SOPT 29th SERBER Part
+- **[2021.09-2022.01]** SOPT 29th SERVER Part
 - **[2022.03-2022.07]** SOPT 30th WEB part
 - **[2022.12-2023.03]** Telus International AI, Co. Intern
 <br>
